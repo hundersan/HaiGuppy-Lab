@@ -1,5 +1,18 @@
 # HaiGuppy Lab
 
+Founder : KUO Hunder
+
+AI Assisted Guppy Breeding Research
+
+建立日期：2026
+
+研究主題：
+- 艾爾銀短身雙劍
+- 紅斑 / 無紅斑對照組
+- 藍化體短身系統
+- 全紅白子短身導入計畫
+# HaiGuppy Lab
+
 艾爾銀短身雙劍育種計畫
 
 ## 主線
