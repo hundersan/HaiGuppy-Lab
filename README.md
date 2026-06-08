@@ -1,5 +1,7 @@
 # HaiGuppy Lab
 
+艾爾銀短身雙劍育種計畫
+
 Founder : KUO Hunder
 
 AI Assisted Guppy Breeding Research
@@ -11,9 +13,7 @@ AI Assisted Guppy Breeding Research
 - 紅斑 / 無紅斑對照組
 - 藍化體短身系統
 - 全紅白子短身導入計畫
-# HaiGuppy Lab
 
-艾爾銀短身雙劍育種計畫
 
 ## 主線
 
